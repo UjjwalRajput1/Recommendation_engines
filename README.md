@@ -1,5 +1,5 @@
-# Data Scientist Nanodegree Udacity
-## Recommendations With IBM project
+# Data Scientist Nanodegree - Udacity
+## Recommendations engines with IBM project
 
 ### Introduction
 <p>In this project we'll analyze the interactions that users have with articles on the IBM Watson Studio platform, 
